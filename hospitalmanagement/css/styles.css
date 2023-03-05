@@ -1,0 +1,106 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: red;
+    padding-top: 3%;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.homerow {
+    padding-top: 14%;
+    text-align: center;
+}
+
+.picture {
+    padding-bottom: 200px;
+}
+
+.hometext {
+    text-align: center;
+    padding-top: 17%;
+}
+
+.content_home {
+    padding-top: 3%;
+    height: 758.875px;
+}
+
+.imgcol {
+    text-align: center;
+}
+
+.hospital_img {
+    height: 70%;
+    width: auto;
+}
+
+.nav-item {
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.navbar-brand {
+    font-family: 'Abel', sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+hr.style-eight {
+    overflow: visible;
+    /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: black;
+    text-align: center;
+    width: 15%;
+}
+
+hr.dot {
+    border: dotted #006DAA 7px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto 50px auto;
+    background-color: #DBF3FA;
+}
+
+.p {
+    color: #476C9B;
+    font-weight: 500;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+/*hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}*/
+
+.contact-me {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.contact-phone {
+    width: 10%;
+    margin: 10px;
+    position: relative;
+    left: 200px;
+}
+
+.bottom-container {
+    padding-top: 75px;
+    padding-bottom: 25px;
+    background-color: #87CEEB;
+}

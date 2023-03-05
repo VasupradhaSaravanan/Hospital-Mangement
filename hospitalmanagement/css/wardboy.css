@@ -1,0 +1,23 @@
+body {
+    padding-top: 3%;
+}
+
+.navbar-brand {
+    font-family: 'Abel', sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.frm {
+    padding: 0% 10% 0.7% 10%;
+}
+
+.buttonclass {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.formContainer {
+    padding-top: 3%;
+}

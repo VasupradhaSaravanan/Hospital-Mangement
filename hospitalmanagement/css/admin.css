@@ -1,0 +1,14 @@
+body {
+    padding-top: 3%;
+}
+
+.navbar-brand {
+    font-family: 'Abel', sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.selectors {
+    padding: 4% 15% 0 15%;
+    text-align: center;
+}
